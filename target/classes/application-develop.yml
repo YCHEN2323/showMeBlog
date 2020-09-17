@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/showmeblog?serverTimezone=UTC&useSSL=false&useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: qweasd
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+logging:
+  level:
+    root: info
+    com.cy.showmeblog: debug
+  file:
+    name: log/blog-dev.log
+server:
+  port: 80

@@ -1,0 +1,10 @@
+2020-09-17 15:54:07.067  INFO 12992 --- [restartedMain] com.ShowmeblogApplication  : Starting ShowmeblogApplication on DESKTOP-IF40URU with PID 12992 (D:\IdeaIU\showmeblog\target\classes started by Chen in D:\IdeaIU\showmeblog)
+2020-09-17 15:54:07.074 DEBUG 12992 --- [restartedMain] com.ShowmeblogApplication  : Running with Spring Boot v2.2.9.RELEASE, Spring v5.2.8.RELEASE
+2020-09-17 15:54:07.075  INFO 12992 --- [restartedMain] com.ShowmeblogApplication  : The following profiles are active: productEiv
+2020-09-17 15:54:11.710  WARN 12992 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-09-17 15:54:12.471  INFO 12992 --- [restartedMain] com.ShowmeblogApplication  : Started ShowmeblogApplication in 6.266 seconds (JVM running for 8.418)
+2020-09-17 15:55:26.959  INFO 7640 --- [restartedMain] com.ShowmeblogApplication  : Starting ShowmeblogApplication on DESKTOP-IF40URU with PID 7640 (D:\IdeaIU\showmeblog\target\classes started by Chen in D:\IdeaIU\showmeblog)
+2020-09-17 15:55:26.963 DEBUG 7640 --- [restartedMain] com.ShowmeblogApplication  : Running with Spring Boot v2.2.9.RELEASE, Spring v5.2.8.RELEASE
+2020-09-17 15:55:26.963  INFO 7640 --- [restartedMain] com.ShowmeblogApplication  : The following profiles are active: productEiv
+2020-09-17 15:55:32.208  WARN 7640 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-09-17 15:55:32.835  INFO 7640 --- [restartedMain] com.ShowmeblogApplication  : Started ShowmeblogApplication in 7.116 seconds (JVM running for 9.667)
